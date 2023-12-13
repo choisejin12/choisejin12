@@ -30,8 +30,10 @@
  
 #### :pencil2: Study log
 
-  <br/>
+
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/notion.svg' alt='notion' height='40'>](https://www.notion.so/CHAESAE-402943d7afe744fd99a9004110928267?pvs=4)  
+**Click Me !!**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choisejin12&layout=compact)](https://github.com/choisejin12/github-readme-stats)
 
@@ -46,3 +48,6 @@
 
 
 </div>
+
+
+
